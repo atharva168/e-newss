@@ -1,0 +1,48 @@
+$(".hindustan").click(function(){
+    window.open("https://www.hindustantimes.com");
+    console.log("clicked");
+});
+$(".indianexp").click(function(){
+    window.open("https://www.indianexpress.com");
+    console.log("clicked");
+});
+$(".toi").click(function(){
+    window.open("https://www.timesofindia.com");
+    console.log("clicked");
+});
+$(".hindu").click(function(){
+    window.open("https://www.thehindu.com");
+    console.log("clicked");
+});
+$(".Navbharat").click(function(){
+    window.open("https://epaper.enavabharat.com");
+    console.log("clicked");
+});
+$(".Dainik").click(function(){
+    window.open("https://epaper.bhaskarhindi.com");
+    console.log("clicked");
+});
+$(".Jansatta").click(function(){
+    window.open("https://www.jansatta.com");
+    console.log("clicked");
+});
+$(".aajTak").click(function(){
+    window.open("https://www.aajtak.in");
+    console.log("clicked");
+});
+$(".Lokmat").click(function(){
+    window.open("https://www.lokmat.com");
+    console.log("clicked");
+});
+$(".mt").click(function(){
+    window.open("https://maharashtratimes.com");
+    console.log("clicked");
+});
+$(".Loksatta").click(function(){
+    window.open("https://www.loksatta.com");
+    console.log("clicked");
+});
+$(".sakal").click(function(){
+    window.open("https://www.esakal.com");
+    console.log("clicked");
+});

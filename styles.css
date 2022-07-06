@@ -1,40 +1,45 @@
 .top-container{
     text-align: center;
-    background-color: #2F8F9D;
+    background-color: #F9F9C5;
     font-family: 'Montserrat', sans-serif;
 }
 img{
     margin: 7% 15%;
 }
 .eng-img, .hin-img, .mah-img{
-    width: 300px;
+    width: 18.75rem;
     border-radius: 100%;
 }
 #englishBox-carousel, #hindiBox-carousel, #marathiBox-carousel{
-    background-color: #3BACB6;
+    background-color: transparent;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 
 }
 p{
+    text-align: center;
     font-weight: bold;
     font-size: 2rem;
     font-family: 'Montserrat', sans-serif;
+    background-color: #FBA1A1;
+    margin: 0 25%;
 }
 h2{
    
     text-align: center;
     padding: 2rem;
     font-family: 'Montserrat', sans-serif;
-    background-color: #B3E8E5;
+    background-color: #66BFBF;
    margin-top: 1.5rem;
-   margin-bottom: 1.5rem;;
+   margin-bottom: 1.5rem;
+   color: black;
+   font-weight: bolder;
 }
 .heading{
     padding: 2rem;
     font-weight: 600px;
     font-size: 5rem;
-    color: #FFC54D;
+    color: #810955;
 }
 a:link {
     color: black;
@@ -54,7 +59,11 @@ a:visited {
 body{
     margin: 0 7%;
     background-color: aliceblue;
+    background-image: url("images/newsspaper.jfif");
+    
 }
 h3{
     line-height: 2;
+    color: #610C63;
+    font-weight: bold;
 }
